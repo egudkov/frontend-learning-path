@@ -1,5 +1,7 @@
 # frontend-learning-path
 
+Inspired by https://github.com/jpacsai/LearningPath
+
 ## Courses I have finished:
 
 - ### Google Udacity - Front End Web Developer Scholarship
