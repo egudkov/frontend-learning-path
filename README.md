@@ -9,8 +9,13 @@
 ***
 ## Courses I am doing:
 
-- ### [Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)  
+- ### [Udacity - Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)  
   18/02/2018 - 
+  - [ ] Why Responsive?
+  - [ ] Starting Small
+  - [ ] Building Up
+  - [ ] Common Responsive Patterns
+  - [ ] Optimizations
 
 - ### [freeCodeCamp - Front End Development Path](https://www.freecodecamp.org/)  
   18/02/2018 - 
