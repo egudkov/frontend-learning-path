@@ -22,7 +22,7 @@ Inspired by https://github.com/jpacsai/LearningPath
 - ### [freeCodeCamp - Front End Development Path](https://www.freecodecamp.org/)  
   18/02/2018 -  
   [Workbook](https://github.com/egudkov/freeCodeCamp)  
-  - [ ] HTML5 and CSS  
+  - [x] HTML5 and CSS  
   - [ ] Responsive Desing with Bootstrap  
   - [ ] jQuery  
   - [ ] **Basic Front End Development Projects**
