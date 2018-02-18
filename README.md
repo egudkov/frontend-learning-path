@@ -11,7 +11,7 @@
 
 - ### [Udacity - Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)  
   18/02/2018 -  
-  - [ ] Why Responsive?
+  - [x] Why Responsive?
   - [ ] Starting Small
   - [ ] Building Up
   - [ ] Common Responsive Patterns
