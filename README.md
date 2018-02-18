@@ -10,7 +10,7 @@
 ## Courses I am doing:
 
 - ### [Udacity - Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)  
-  18/02/2018 - 
+  18/02/2018 -  
   - [ ] Why Responsive?
   - [ ] Starting Small
   - [ ] Building Up
@@ -18,7 +18,7 @@
   - [ ] Optimizations
 
 - ### [freeCodeCamp - Front End Development Path](https://www.freecodecamp.org/)  
-  18/02/2018 - 
+  18/02/2018 -  
   [Workbook](https://github.com/egudkov/freeCodeCamp)  
   - [ ] HTML5 and CSS  
   - [ ] Responsive Desing with Bootstrap  
