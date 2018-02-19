@@ -14,7 +14,7 @@ Inspired by https://github.com/jpacsai/LearningPath
 - ### [Udacity - Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)  
   18/02/2018 -  
   - [x] Why Responsive?
-  - [ ] Starting Small
+  - [x] Starting Small
   - [ ] Building Up
   - [ ] Common Responsive Patterns
   - [ ] Optimizations
