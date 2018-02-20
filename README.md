@@ -24,7 +24,7 @@ Inspired by https://github.com/jpacsai/LearningPath
   [Workbook](https://github.com/egudkov/freeCodeCamp)  
   - [x] HTML5 and CSS  
   - [x] Responsive Desing with Bootstrap  
-  - [ ] jQuery  
+  - [x] jQuery  
   - [ ] **Basic Front End Development Projects**
      - [ ] Tribute page
      - [ ] Portfolio page
