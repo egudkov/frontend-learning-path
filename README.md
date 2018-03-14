@@ -11,6 +11,14 @@ Inspired by https://github.com/jpacsai/LearningPath
 ***
 ## Courses I am doing:
 
+- ### [Tinkoff Fintech School Spring 2018 - Frontend](https://fintech.tinkoff.ru/tfschool_spring_2018/frontend)  
+  22/02/2018 -  
+  - [x] JS Basics
+  - [x] Functions, Objects, Arrays
+  - [x] Asynchrony, Event Loop, Callback, Promise
+  - [ ] ...
+  - [ ] ...
+
 - ### [Udacity - Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)  
   18/02/2018 -  
   - [x] Why Responsive?
