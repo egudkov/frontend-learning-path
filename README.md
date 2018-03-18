@@ -16,8 +16,12 @@ Inspired by https://github.com/jpacsai/LearningPath
   - [x] JS Basics
   - [x] Functions, Objects, Arrays
   - [x] Asynchrony, Event Loop, Callback, Promise
+  - [x] Prototypes
+  - [x] DOM. Events.
+  - [ ] Angular
   - [ ] ...
   - [ ] ...
+  
 
 - ### [Udacity - Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)  
   18/02/2018 -  
