@@ -22,6 +22,21 @@ Inspired by https://github.com/jpacsai/LearningPath
   - [ ] ...
   - [ ] ...
   
+- ### Netcracker Frontend Course
+  13/11/2017 -  
+  - [x] Java Basics
+  - [x] SQL Basics
+  - [x] HTML, CSS
+  - [x] DOM, Events
+  - [x] jQuery
+  - [x] LESS
+  - [x] Single Page Application Project ([demo](https://spalibrary.herokuapp.com), [code](https://github.com/egudkov/library))
+  - [x] JS Basics
+  - [x] Linked List Homework ([code](https://github.com/egudkov/nc-frontend-hw))
+  - [x] Node.js, nmp
+  - [x] React
+  - [x] Redux
+  - [ ] Final Project
 
 - ### [Udacity - Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)  
   18/02/2018 -  
