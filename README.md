@@ -22,13 +22,13 @@ Inspired by https://github.com/jpacsai/LearningPath
   - [ ] ...
   - [ ] ...
   
-- ### Netcracker Frontend Course
+- ### [Netcracker Frontend Course](http://nn.edu-netcracker.com/)
   13/11/2017 -  
   - [x] Java Basics
   - [x] SQL Basics
   - [x] HTML, CSS
   - [x] DOM, Events
-  - [x] jQuery
+  - [x] jQuery, Ajax
   - [x] LESS
   - [x] Single Page Application Project ([demo](https://spalibrary.herokuapp.com), [code](https://github.com/egudkov/library))
   - [x] JS Basics
