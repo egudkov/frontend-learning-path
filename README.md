@@ -7,6 +7,8 @@ Inspired by https://github.com/jpacsai/LearningPath
 - ### Google Udacity - Front End Web Developer Scholarship
   06/11/2017 - 06/02/2018  
   _HTML5, CSS3, JavaScript, jQuery_  
+  Projects:
+  - [x] Pixel Art Maker ([demo](https://egudkov.github.io/pixel-art-maker/), [code](https://github.com/egudkov/pixel-art-maker))
 
 ***
 ## Courses I am doing:
