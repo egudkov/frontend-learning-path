@@ -18,7 +18,7 @@ Inspired by https://github.com/jpacsai/LearningPath
   - [x] Asynchrony, Event Loop, Callback, Promise
   - [x] Prototypes
   - [x] DOM. Events.
-  - [ ] Angular
+  - [x] Angular
   - [ ] ...
   - [ ] ...
   
@@ -35,7 +35,6 @@ Inspired by https://github.com/jpacsai/LearningPath
   - [x] Linked List Homework ([code](https://github.com/egudkov/nc-frontend-hw))
   - [x] Node.js, nmp
   - [x] React
-  - [x] Redux
   - [ ] Final Project
 
 - ### [Udacity - Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)  
