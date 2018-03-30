@@ -21,7 +21,7 @@ Inspired by https://github.com/jpacsai/LearningPath
   - [x] Prototypes
   - [x] DOM. Events.
   - [x] Angular
-  - [ ] Angular: Architecture, Dependency Injection, Services
+  - [x] Angular: Architecture, Dependency Injection, Services
   - [ ] RxJS, Observable
   - [ ] ...
   
