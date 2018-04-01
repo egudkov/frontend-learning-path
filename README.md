@@ -15,15 +15,18 @@ Inspired by https://github.com/jpacsai/LearningPath
 
 - ### [Tinkoff Fintech School Spring 2018 - Frontend](https://fintech.tinkoff.ru/tfschool_spring_2018/frontend)  
   22/02/2018 -  
+  [Homework repo on gitlab (private)](https://gitlab.com/egudkov/javascript)  
   - [x] JS Basics
   - [x] Functions, Objects, Arrays
   - [x] Asynchrony, Event Loop, Callback, Promise
   - [x] Prototypes
   - [x] DOM. Events.
-  - [x] Angular
+  - [x] Angular: Introduction
   - [x] Angular: Architecture, Dependency Injection, Services
   - [ ] RxJS, Observable
-  - [ ] ...
+  - [ ] HTML, CSS
+  - [ ] Forms, Routing
+  - [ ] Final Project
   
 - ### [Netcracker Frontend Course](http://nn.edu-netcracker.com/)
   13/11/2017 -  
