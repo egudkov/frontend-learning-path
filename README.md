@@ -10,6 +10,23 @@ Inspired by https://github.com/jpacsai/LearningPath
   Projects:
   - [x] Pixel Art Maker ([demo](https://egudkov.github.io/pixel-art-maker/), [code](https://github.com/egudkov/pixel-art-maker))
 
+- ### [Netcracker Frontend Course](http://nn.edu-netcracker.com/)
+  13/11/2017 - 14/03/2018  
+  - [x] Java Basics
+  - [x] SQL Basics
+  - [x] HTML, CSS
+  - [x] DOM, Events
+  - [x] jQuery, Ajax
+  - [x] LESS
+  - [x] Single Page Application Project ([demo](https://spalibrary.herokuapp.com), [code](https://github.com/egudkov/library))
+  - [x] JS Basics
+  - [x] Linked List Homework ([code](https://github.com/egudkov/nc-frontend-hw))
+  - [x] Node.js, nmp
+  - [x] React
+  
+- ### [React Basics Screencast (learn.javascript.ru)](http://learn.javascript.ru/screencast/react)
+  - [Code](https://github.com/egudkov/try-out-react)
+
 ***
 ## Courses I am doing:
 
@@ -23,24 +40,9 @@ Inspired by https://github.com/jpacsai/LearningPath
   - [x] DOM. Events.
   - [x] Angular: Introduction
   - [x] Angular: Architecture, Dependency Injection, Services
-  - [ ] RxJS, Observable
-  - [ ] HTML, CSS
-  - [ ] Forms, Routing
-  - [ ] Final Project
-  
-- ### [Netcracker Frontend Course](http://nn.edu-netcracker.com/)
-  13/11/2017 -  
-  - [x] Java Basics
-  - [x] SQL Basics
+  - [x] RxJS, Observable
   - [x] HTML, CSS
-  - [x] DOM, Events
-  - [x] jQuery, Ajax
-  - [x] LESS
-  - [x] Single Page Application Project ([demo](https://spalibrary.herokuapp.com), [code](https://github.com/egudkov/library))
-  - [x] JS Basics
-  - [x] Linked List Homework ([code](https://github.com/egudkov/nc-frontend-hw))
-  - [x] Node.js, nmp
-  - [x] React
+  - [ ] Forms, Routing
   - [ ] Final Project
 
 - ### [Udacity - Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)  
