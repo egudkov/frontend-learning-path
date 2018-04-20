@@ -42,7 +42,7 @@ Inspired by https://github.com/jpacsai/LearningPath
   - [x] Angular: Architecture, Dependency Injection, Services
   - [x] RxJS, Observable
   - [x] HTML, CSS
-  - [ ] Forms, Routing
+  - [x] Forms, Routing
   - [ ] Final Project
 
 - ### [Udacity - Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)  
