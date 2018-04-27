@@ -4,46 +4,31 @@ Inspired by https://github.com/jpacsai/LearningPath
 
 ## Courses I have finished:
 
+- ### [Tinkoff Fintech School Spring 2018 - Frontend](https://fintech.tinkoff.ru/tfschool_spring_2018/frontend)  
+  22/02/2018 - 26/04/2018  
+   _JS basics, async JS, prototypes, Angular, RxJS, Observable, Reactive Forms_  
+  [Homework repo on gitlab (private)](https://gitlab.com/egudkov/javascript)  
+  Projects:
+  - [x] Final Project ([demo](https://campfire-be355.firebaseapp.com/), [code - private repo](https://gitlab.com/egudkov/campfire))
+
+- ### [Netcracker Frontend Course](http://nn.edu-netcracker.com/)
+  13/11/2017 - 14/03/2018  
+  _HTML5, CSS3, JavaScript, jQuery, LESS, React_  
+  Projects:
+  - [x] Single Page Application Project ([demo](https://spalibrary.herokuapp.com), [code](https://github.com/egudkov/library))
+  - [x] Linked List Homework ([code](https://github.com/egudkov/nc-frontend-hw))
+
 - ### Google Udacity - Front End Web Developer Scholarship
   06/11/2017 - 06/02/2018  
   _HTML5, CSS3, JavaScript, jQuery_  
   Projects:
   - [x] Pixel Art Maker ([demo](https://egudkov.github.io/pixel-art-maker/), [code](https://github.com/egudkov/pixel-art-maker))
 
-- ### [Netcracker Frontend Course](http://nn.edu-netcracker.com/)
-  13/11/2017 - 14/03/2018  
-  - [x] Java Basics
-  - [x] SQL Basics
-  - [x] HTML, CSS
-  - [x] DOM, Events
-  - [x] jQuery, Ajax
-  - [x] LESS
-  - [x] Single Page Application Project ([demo](https://spalibrary.herokuapp.com), [code](https://github.com/egudkov/library))
-  - [x] JS Basics
-  - [x] Linked List Homework ([code](https://github.com/egudkov/nc-frontend-hw))
-  - [x] Node.js, nmp
-  - [x] React
-  
 - ### [React Basics Screencast (learn.javascript.ru)](http://learn.javascript.ru/screencast/react)
   - [Code](https://github.com/egudkov/try-out-react)
 
 ***
 ## Courses I am doing:
-
-- ### [Tinkoff Fintech School Spring 2018 - Frontend](https://fintech.tinkoff.ru/tfschool_spring_2018/frontend)  
-  22/02/2018 -  
-  [Homework repo on gitlab (private)](https://gitlab.com/egudkov/javascript)  
-  - [x] JS Basics
-  - [x] Functions, Objects, Arrays
-  - [x] Asynchrony, Event Loop, Callback, Promise
-  - [x] Prototypes
-  - [x] DOM. Events.
-  - [x] Angular: Introduction
-  - [x] Angular: Architecture, Dependency Injection, Services
-  - [x] RxJS, Observable
-  - [x] HTML, CSS
-  - [x] Forms, Routing
-  - [ ] Final Project
 
 - ### [Udacity - Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)  
   18/02/2018 -  
