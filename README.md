@@ -8,20 +8,21 @@ Inspired by https://github.com/jpacsai/LearningPath
   22/02/2018 - 26/04/2018  
    _JS basics, async JS, prototypes, Angular, RxJS, Observable, Reactive Forms_  
   [Homework repo on gitlab (private)](https://gitlab.com/egudkov/javascript)  
-  Projects:
+  Practice:
+  - [x] [Homework repo on gitlab (private)](https://gitlab.com/egudkov/javascript)
   - [x] Final Project ([demo](https://campfire-be355.firebaseapp.com/), [code - private repo](https://gitlab.com/egudkov/campfire))
 
 - ### [Netcracker Frontend Course](http://nn.edu-netcracker.com/)
   13/11/2017 - 14/03/2018  
   _HTML5, CSS3, JavaScript, jQuery, LESS, React_  
-  Projects:
+  Practice:
   - [x] Single Page Application Project ([demo](https://spalibrary.herokuapp.com), [code](https://github.com/egudkov/library))
   - [x] Linked List Homework ([code](https://github.com/egudkov/nc-frontend-hw))
 
 - ### Google Udacity - Front End Web Developer Scholarship
   06/11/2017 - 06/02/2018  
   _HTML5, CSS3, JavaScript, jQuery_  
-  Projects:
+  Practice:
   - [x] Pixel Art Maker ([demo](https://egudkov.github.io/pixel-art-maker/), [code](https://github.com/egudkov/pixel-art-maker))
 
 - ### [React Basics Screencast (learn.javascript.ru)](http://learn.javascript.ru/screencast/react)
