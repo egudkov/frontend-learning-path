@@ -31,14 +31,6 @@ Inspired by https://github.com/jpacsai/LearningPath
 ***
 ## Courses I am doing:
 
-- ### [Udacity - Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)  
-  18/02/2018 -  
-  - [x] Why Responsive?
-  - [x] Starting Small
-  - [ ] Building Up
-  - [ ] Common Responsive Patterns
-  - [ ] Optimizations
-
 - ### [freeCodeCamp - Front End Development Path](https://www.freecodecamp.org/)  
   18/02/2018 -  
   [Workbook](https://github.com/egudkov/freeCodeCamp)  
