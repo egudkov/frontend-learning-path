@@ -31,25 +31,32 @@ Inspired by https://github.com/jpacsai/LearningPath
 ***
 ## Courses I am doing:
 
-- ### [freeCodeCamp - Front End Development Path](https://www.freecodecamp.org/)  
-  18/02/2018 -  
+- ### [freeCodeCamp](https://learn.freecodecamp.org/)  
+  30/05/2018 -  
   [Workbook](https://github.com/egudkov/freeCodeCamp)  
-  - [x] HTML5 and CSS  
-  - [x] Responsive Desing with Bootstrap  
-  - [x] jQuery  
-  - [ ] **Basic Front End Development Projects**
-     - [ ] Tribute page
-     - [ ] Portfolio page
-  - [ ] Basic JavaScript  
-  - [ ] Object Oriented and Functional Programming  
-  - [ ] Finish my changes  
-  - [ ] Basic Algorithm Scripting  
-  - [ ] JSON API and Ajax
-  - [ ] **Intermediate Front End Development Projects**
-     - [ ] Random Quote Machine
-     - [ ] Local Weather
-     - [ ] Wikipedia Viewer
-     - [ ] Twitch.tv JSON API
-  - [ ] Intermediate Algorithm Scripting
-  - [ ] Advanced Algorithm Scripting  
-  - [ ] **Advanced Front End Development Projects**
+  - [ ] Responsive Web Design Certification
+    - [x] Basic HTML and HTML5  
+    - [x] Basic CSS  
+    - [ ] Applied Visual Design  
+    - [ ] Applied Accessibility  
+    - [ ] Responsive Web Design Principles  
+    - [ ] CSS Flexbox  
+    - [ ] CSS Grid  
+    - [ ] **Responsive Web Design Projects**
+  - [ ] Javascript Algorithms And Data Structures Certification
+    - [x] Basic JavaScript  
+    - [ ] ES6
+    - [ ] Regular Expressions
+    - [ ] Debugging
+    - [ ] Basic Data Structures
+    - [ ] Basic Algorithm Scripting
+    - [ ] Object Oriented Programming
+    - [ ] Functional Programming
+    - [ ] Intermediate Algorithm Scripting
+    - [ ] **JavaScript Algorithms and Data Structures Projects**
+  - [ ] Front End Libraries Certification
+  - [ ] Data Visualization Certification
+  - [ ] Apis And Microservices Certification
+  - [ ] Information Security And Quality Assurance Certification
+  - [ ] Coding Interview Prep
+
