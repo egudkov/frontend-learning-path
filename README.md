@@ -31,6 +31,20 @@ Inspired by https://github.com/jpacsai/LearningPath
 ***
 ## Courses I am doing:
 
+
+- ### [Angular Front To Back](https://www.udemy.com/angular-4-front-to-back/)  
+  30/05/2018 -  
+  - [x] Introduction
+  - [x] Setup & File Structure
+  - [ ] Diving Into Components
+  - [ ] Template Syntax
+  - [ ] Events & Forms
+  - [ ] Services, HTTP, Input & Output
+  - [ ] Angular Router
+  - [ ] DevLogger Project
+  - [ ] Client Panel Project - Part 1
+  - [ ] Client Panel Project - Part 2
+
 - ### [freeCodeCamp](https://learn.freecodecamp.org/)  
   30/05/2018 -  
   [Workbook](https://github.com/egudkov/freeCodeCamp)  
