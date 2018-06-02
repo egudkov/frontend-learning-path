@@ -59,7 +59,7 @@ Inspired by https://github.com/jpacsai/LearningPath
     - [ ] **Responsive Web Design Projects**
   - [ ] Javascript Algorithms And Data Structures Certification
     - [x] Basic JavaScript  
-    - [ ] ES6
+    - [x] ES6
     - [ ] Regular Expressions
     - [ ] Debugging
     - [ ] Basic Data Structures
