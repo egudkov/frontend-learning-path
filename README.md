@@ -36,7 +36,7 @@ Inspired by https://github.com/jpacsai/LearningPath
   30/05/2018 -  
   - [x] Introduction
   - [x] Setup & File Structure
-  - [ ] Diving Into Components
+  - [x] Diving Into Components
   - [ ] Template Syntax
   - [ ] Events & Forms
   - [ ] Services, HTTP, Input & Output
