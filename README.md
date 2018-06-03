@@ -60,7 +60,7 @@ Inspired by https://github.com/jpacsai/LearningPath
   - [ ] Javascript Algorithms And Data Structures Certification
     - [x] Basic JavaScript  
     - [x] ES6
-    - [ ] Regular Expressions
+    - [x] Regular Expressions
     - [ ] Debugging
     - [ ] Basic Data Structures
     - [ ] Basic Algorithm Scripting
