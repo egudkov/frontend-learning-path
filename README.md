@@ -61,7 +61,7 @@ Inspired by https://github.com/jpacsai/LearningPath
     - [x] Basic JavaScript  
     - [x] ES6
     - [x] Regular Expressions
-    - [ ] Debugging
+    - [x] Debugging
     - [ ] Basic Data Structures
     - [ ] Basic Algorithm Scripting
     - [ ] Object Oriented Programming
