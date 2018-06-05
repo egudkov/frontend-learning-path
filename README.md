@@ -37,7 +37,7 @@ Inspired by https://github.com/jpacsai/LearningPath
   - [x] Introduction
   - [x] Setup & File Structure
   - [x] Diving Into Components
-  - [ ] Template Syntax
+  - [x] Template Syntax
   - [ ] Events & Forms
   - [ ] Services, HTTP, Input & Output
   - [ ] Angular Router
