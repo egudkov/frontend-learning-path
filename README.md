@@ -45,6 +45,14 @@ Inspired by https://github.com/jpacsai/LearningPath
   - [ ] Client Panel Project - Part 1
   - [ ] Client Panel Project - Part 2
 
+- ### [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/)  
+  06/06/2018 -  
+  - [x] Getting Started
+  - [ ] Refreshing Next Generation JavaScript
+  - [ ] Understanding the Base Features & Syntax
+  - [ ] Working with Lists and Conditionals
+  - [ ] ...
+  
 - ### [freeCodeCamp](https://learn.freecodecamp.org/)  
   30/05/2018 -  
   [Workbook](https://github.com/egudkov/freeCodeCamp)  
