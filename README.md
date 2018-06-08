@@ -48,7 +48,7 @@ Inspired by https://github.com/jpacsai/LearningPath
 - ### [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/)  
   06/06/2018 -  
   - [x] Getting Started
-  - [ ] Refreshing Next Generation JavaScript
+  - [x] Refreshing Next Generation JavaScript
   - [ ] Understanding the Base Features & Syntax
   - [ ] Working with Lists and Conditionals
   - [ ] ...
