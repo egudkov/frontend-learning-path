@@ -84,7 +84,7 @@ Inspired by https://github.com/jpacsai/LearningPath
     - [x] Basic CSS  
     - [ ] Applied Visual Design  
     - [ ] Applied Accessibility  
-    - [ ] Responsive Web Design Principles  
+    - [x] Responsive Web Design Principles  
     - [ ] CSS Flexbox  
     - [ ] CSS Grid  
     - [ ] **Responsive Web Design Projects**
