@@ -50,7 +50,7 @@ Inspired by https://github.com/jpacsai/LearningPath
   - [x] Getting Started
   - [x] Refreshing Next Generation JavaScript
   - [x] Understanding the Base Features & Syntax
-  - [ ] Working with Lists and Conditionals
+  - [x] Working with Lists and Conditionals
   - [ ] Styling React Components & Elements
   - [ ] Debugging React Apps
   - [ ] Diving Deeper into Components & React Internals
