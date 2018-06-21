@@ -78,37 +78,6 @@ Inspired by https://github.com/jpacsai/LearningPath
   
 - ### [freeCodeCamp](https://learn.freecodecamp.org/)  
   30/05/2018 -  
-  [Workbook](https://github.com/egudkov/freeCodeCamp)  
-  - [ ] Responsive Web Design Certification
-    - [x] Basic HTML and HTML5  
-    - [x] Basic CSS  
-    - [ ] Applied Visual Design  
-    - [ ] Applied Accessibility  
-    - [x] Responsive Web Design Principles  
-    - [ ] CSS Flexbox  
-    - [ ] CSS Grid  
-    - [ ] **Responsive Web Design Projects**
-  - [ ] Javascript Algorithms And Data Structures Certification
-    - [x] Basic JavaScript  
-    - [x] ES6
-    - [x] Regular Expressions
-    - [x] Debugging
-    - [x] Basic Data Structures
-    - [x] Basic Algorithm Scripting
-    - [ ] Object Oriented Programming
-    - [ ] Functional Programming
-    - [ ] Intermediate Algorithm Scripting
-    - [ ] **JavaScript Algorithms and Data Structures Projects**
-  - [ ] Front End Libraries Certification
-    - [x] Bootstrap
-    - [x] jQuery
-    - [x] Sass
-    - [ ] React
-    - [ ] Redux
-    - [ ] React and Redux
-    - [ ] **Front End Libraries Projects**
-  - [ ] Data Visualization Certification
-  - [ ] Apis And Microservices Certification
-  - [ ] Information Security And Quality Assurance Certification
-  - [ ] Coding Interview Prep
+  [Progress and practice](https://github.com/egudkov/freeCodeCamp)  
+
 
