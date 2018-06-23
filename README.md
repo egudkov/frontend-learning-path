@@ -51,7 +51,7 @@ Inspired by https://github.com/jpacsai/LearningPath
   - [x] Refreshing Next Generation JavaScript
   - [x] Understanding the Base Features & Syntax
   - [x] Working with Lists and Conditionals
-  - [ ] Styling React Components & Elements
+  - [x] Styling React Components & Elements
   - [ ] Debugging React Apps
   - [ ] Diving Deeper into Components & React Internals
   - [ ] A Real App: The Burger Builder (Basic Version)
