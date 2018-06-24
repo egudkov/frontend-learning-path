@@ -52,7 +52,7 @@ Inspired by https://github.com/jpacsai/LearningPath
   - [x] Understanding the Base Features & Syntax
   - [x] Working with Lists and Conditionals
   - [x] Styling React Components & Elements
-  - [ ] Debugging React Apps
+  - [x] Debugging React Apps
   - [ ] Diving Deeper into Components & React Internals
   - [ ] A Real App: The Burger Builder (Basic Version)
   - [ ] Reaching out to the Web (Http / Ajax)
